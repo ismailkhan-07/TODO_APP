@@ -1,0 +1,13 @@
+.app {
+  padding: 30px;
+  background-color: rgb(233, 197, 125);
+  margin: 5%;
+  border-radius: 20px;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
